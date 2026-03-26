@@ -467,7 +467,7 @@ a {
 }
 
 /* ══════════════════════════════════════
-   SECTIONS (Generic)
+    SECTIONS (Generic)
    ══════════════════════════════════════ */
 .section {
     padding: 6rem 2rem;
@@ -523,7 +523,7 @@ a {
 }
 
 /* ══════════════════════════════════════
-   ABOUT SECTION
+    ABOUT SECTION
    ══════════════════════════════════════ */
 .about-grid {
     display: grid;
@@ -632,7 +632,7 @@ a {
 }
 
 /* ══════════════════════════════════════
-   SKILLS SECTION
+    SKILLS SECTION
    ══════════════════════════════════════ */
 .skills-grid {
     display: grid;
@@ -719,7 +719,7 @@ a {
 }
 
 /* ══════════════════════════════════════
-   PROJECTS SECTION
+    PROJECTS SECTION
    ══════════════════════════════════════ */
 .projects-grid {
     display: grid;
@@ -837,7 +837,7 @@ a {
 }
 
 /* ══════════════════════════════════════
-   TIMELINE SECTION
+    TIMELINE SECTION
    ══════════════════════════════════════ */
 .timeline {
     max-width: 700px;
@@ -920,7 +920,7 @@ a {
 }
 
 /* ══════════════════════════════════════
-   CERTIFICATES SECTION
+    CERTIFICATES SECTION
    ══════════════════════════════════════ */
 .certs-grid {
     display: grid;
